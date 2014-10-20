@@ -1,0 +1,1 @@
+This project includes my programming assignments and labs from Computer Science 1410 at the University of Utah during spring semester 2013. All programs are written in Java. 
